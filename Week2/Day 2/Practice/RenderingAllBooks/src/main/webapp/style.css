@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+table{
+	width: 50%;
+	border: 10px solid coral;
+	border-collapse: collapse;
+	text-align:left ;
+}
+tr{
+	border-bottom: 2px solid coral;
+}
+h1{
+	color: coral;
+}
